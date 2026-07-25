@@ -9,10 +9,13 @@
 // console.log(str1.length); //length of string
 // console.log(str1[0]); //accessing (string character) each element one by one .
 
-let str=`GopalDa`;
+// let str=`GopalDa`;
 
- let l = str.length;
- console.log(l);
+//  let l = str.length;
+//  console.log(l);
 
- let U_name=`@${str}${l}`; //string interpolation
- console.log(U_name);
+//  let U_name=`@${str}${l}`; //string interpolation
+//  console.log(U_name);
+
+let a=[1,2,3,4,5]
+console.log(a);
