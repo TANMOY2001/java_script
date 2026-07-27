@@ -17,5 +17,14 @@
 //  let U_name=`@${str}${l}`; //string interpolation
 //  console.log(U_name);
 
-let a=[1,2,3,4,5]
-console.log(a);
+// let a=[1,2,3,4,5]
+// console.log(a);
+
+let str="Gopal Da";
+str[1]="G";
+console.log(str);
+
+
+
+
+
